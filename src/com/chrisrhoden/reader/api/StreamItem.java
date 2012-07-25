@@ -1,6 +1,7 @@
-package com.chrisrhoden.reader;
+package com.chrisrhoden.reader.api;
 
 import java.util.List;
+
 
 public class StreamItem {
 	
